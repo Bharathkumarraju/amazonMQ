@@ -5,16 +5,16 @@ import org.apache.activemq.ActiveMQSslConnectionFactory;
 import javax.jms.*;
 
 public class Main {
-    private final static String OPENWIRE_ENDPOINT = "";
-    private final static String ACTIVE_MQ_USERNAME = "";
-    private final static String ACTIVE_MQ_PASSWORD = "";
-    private final static String QUEUE_NAME = "";
+    private final static String OPENWIRE_ENDPOINT = "ssl://b-390c347c-c948-4ef1-ae46-b125a13e572d-1.mq.us-west-1.amazonaws.com:61617";
+    private final static String ACTIVE_MQ_USERNAME = "bharath";
+    private final static String ACTIVE_MQ_PASSWORD = "Hanuman@1818";
+    private final static String QUEUE_NAME = "AppQueue";
 
     public static void main(String[] args) {
 	// write your code here
         try {
             Connection connection = getConnection();
-            //produce(connection);
+            produce(connection);
             //consume(connection);
             connection.close();
 
