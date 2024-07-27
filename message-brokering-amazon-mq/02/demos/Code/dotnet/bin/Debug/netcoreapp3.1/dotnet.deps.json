@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "dotnet/1.0.0": {
+        "dependencies": {
+          "Apache.NMS.ActiveMQ": "1.7.2"
+        },
+        "runtime": {
+          "dotnet.dll": {}
+        }
+      },
+      "Apache.NMS/1.7.1": {
+        "runtime": {
+          "lib/net40/Apache.NMS.dll": {
+            "assemblyVersion": "1.7.1.3894",
+            "fileVersion": "1.7.1.3894"
+          }
+        }
+      },
+      "Apache.NMS.ActiveMQ/1.7.2": {
+        "dependencies": {
+          "Apache.NMS": "1.7.1"
+        },
+        "runtime": {
+          "lib/net40/Apache.NMS.ActiveMQ.dll": {
+            "assemblyVersion": "1.7.2.4108",
+            "fileVersion": "1.7.2.4108"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Apache.NMS/1.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sQA+1dl1hBB0AkhBys7oJ6y9lBJnjH5xVc2aQ5bbEv/pbyMhlN8Yuo/NceYVGNdSK89ANp9XyQsaVUI975QLjg==",
+      "path": "apache.nms/1.7.1",
+      "hashPath": "apache.nms.1.7.1.nupkg.sha512"
+    },
+    "Apache.NMS.ActiveMQ/1.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-byKSg5/G7JGoDzSGGw4KK43/hpOGrXCtjZyjBcEjTF6ZscnrUiy8r20nyv85P55+nNmfa8q+tSF0GURd1GxYag==",
+      "path": "apache.nms.activemq/1.7.2",
+      "hashPath": "apache.nms.activemq.1.7.2.nupkg.sha512"
+    }
+  }
+}

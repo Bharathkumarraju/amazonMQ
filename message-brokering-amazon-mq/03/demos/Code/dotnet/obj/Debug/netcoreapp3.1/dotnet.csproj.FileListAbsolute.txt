@@ -1,0 +1,16 @@
+G:\Dev\Pluralsight\AmazonMQ\Code\dotnet\obj\Debug\netcoreapp3.1\dotnet.csprojAssemblyReference.cache
+G:\Dev\Pluralsight\AmazonMQ\Code\dotnet\obj\Debug\netcoreapp3.1\dotnet.csproj.CoreCompileInputs.cache
+G:\Dev\Pluralsight\AmazonMQ\Code\dotnet\obj\Debug\netcoreapp3.1\dotnet.AssemblyInfoInputs.cache
+G:\Dev\Pluralsight\AmazonMQ\Code\dotnet\obj\Debug\netcoreapp3.1\dotnet.AssemblyInfo.cs
+G:\Dev\Pluralsight\AmazonMQ\Code\dotnet\bin\Debug\netcoreapp3.1\dotnet.exe
+G:\Dev\Pluralsight\AmazonMQ\Code\dotnet\bin\Debug\netcoreapp3.1\dotnet.deps.json
+G:\Dev\Pluralsight\AmazonMQ\Code\dotnet\bin\Debug\netcoreapp3.1\dotnet.runtimeconfig.json
+G:\Dev\Pluralsight\AmazonMQ\Code\dotnet\bin\Debug\netcoreapp3.1\dotnet.runtimeconfig.dev.json
+G:\Dev\Pluralsight\AmazonMQ\Code\dotnet\bin\Debug\netcoreapp3.1\dotnet.dll
+G:\Dev\Pluralsight\AmazonMQ\Code\dotnet\bin\Debug\netcoreapp3.1\dotnet.pdb
+G:\Dev\Pluralsight\AmazonMQ\Code\dotnet\bin\Debug\netcoreapp3.1\Apache.NMS.dll
+G:\Dev\Pluralsight\AmazonMQ\Code\dotnet\bin\Debug\netcoreapp3.1\Apache.NMS.ActiveMQ.dll
+G:\Dev\Pluralsight\AmazonMQ\Code\dotnet\obj\Debug\netcoreapp3.1\dotnet.csproj.CopyComplete
+G:\Dev\Pluralsight\AmazonMQ\Code\dotnet\obj\Debug\netcoreapp3.1\dotnet.dll
+G:\Dev\Pluralsight\AmazonMQ\Code\dotnet\obj\Debug\netcoreapp3.1\dotnet.pdb
+G:\Dev\Pluralsight\AmazonMQ\Code\dotnet\obj\Debug\netcoreapp3.1\dotnet.genruntimeconfig.cache

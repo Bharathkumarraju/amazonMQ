@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "dgSpecHash": "VYwI6yVJAnJ/NTOMBSqVrSIBq19fudJzXHgLW1EEaM12xNesF5L0+qTdGQ33e2CdF0FHyZAxIQmrnvXlveVjoA==",
+  "success": true,
+  "projectFilePath": "G:\\Dev\\Pluralsight\\AmazonMQ\\Code\\dotnet\\dotnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mike\\.nuget\\packages\\apache.nms\\1.7.1\\apache.nms.1.7.1.nupkg.sha512",
+    "C:\\Users\\mike\\.nuget\\packages\\apache.nms.activemq\\1.7.2\\apache.nms.activemq.1.7.2.nupkg.sha512",
+    "C:\\Users\\mike\\.nuget\\packages\\apache.nms.activemq.netcore\\1.7.2\\apache.nms.activemq.netcore.1.7.2.nupkg.sha512",
+    "C:\\Users\\mike\\.nuget\\packages\\apache.nms.netcore\\1.7.1\\apache.nms.netcore.1.7.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Apache.NMS 1.7.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Apache.NMS",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Apache.NMS.ActiveMQ 1.7.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Apache.NMS.ActiveMQ",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
