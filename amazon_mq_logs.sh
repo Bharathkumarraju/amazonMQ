@@ -1,0 +1,1 @@
+aws --region us-west-1 logs put-resource-policy --policy-name AmazonMQ-Logs --policy-document '{"Version":"2012-10-17","Statement":[{"Effect":"Allow","Principal":{"Service":"mq.amazonaws.com"},"Action":["logs:PutLogEvents","logs:CreateLogStream"],"Resource":"arn:aws:logs:*:*:log-group:/aws/amazonmq/*"}]}'
