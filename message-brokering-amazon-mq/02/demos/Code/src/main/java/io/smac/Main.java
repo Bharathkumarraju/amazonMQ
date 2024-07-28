@@ -7,15 +7,15 @@ import javax.jms.*;
 public class Main {
     private final static String OPENWIRE_ENDPOINT = "ssl://b-390c347c-c948-4ef1-ae46-b125a13e572d-1.mq.us-west-1.amazonaws.com:61617";
     private final static String ACTIVE_MQ_USERNAME = "bharath";
-    private final static String ACTIVE_MQ_PASSWORD = "XXXXXXXXX";
+    private final static String ACTIVE_MQ_PASSWORD = "Test@123456";
     private final static String QUEUE_NAME = "AppQueue";
 
     public static void main(String[] args) {
 	// write your code here
         try {
             Connection connection = getConnection();
-            produce(connection);
-            //consume(connection);
+            //produce(connection);
+            consume(connection);
             connection.close();
 
             System.out.println("Exiting app");
